@@ -1,0 +1,5 @@
+
+pycairo
+libusb
+pyusb
+git+https://github.com/ffont/push2-python
