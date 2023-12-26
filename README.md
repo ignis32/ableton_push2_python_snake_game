@@ -17,3 +17,7 @@ Can be retrieved from 7z files (e.g. libusb-1.0.26-binaries.7z) taken from https
 For my 64 bit Windows it was in the following location within archive: libusb-1.0.26.7z\VS2015\MS64\dll\libusb-1.0.dll
 
 Tested with libusb-1.0.20 and  libusb-1.0.26 versions.
+
+
+Launched as: 
+```python3 .\snake.py```
